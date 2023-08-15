@@ -1,0 +1,8 @@
+/* styles.css */
+
+.background-image {
+    background-image: url('/static/fondo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
